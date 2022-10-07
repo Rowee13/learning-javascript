@@ -10,7 +10,8 @@ This repo is only for my JS learning journey and for other practice projects.
 ## Projects
 
 First Practice Project - 2-01-JS-Timer-project  
-Second Practice Project - 2-02-JS-Movie-Fight-project
+Second Practice Project - 2-02-JS-Movie-Fight-project  
+Third Practice Project - 2-03-JS-Maze-Game-project
 
 <br>
 <br>
